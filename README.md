@@ -25,7 +25,7 @@ I enjoy building systems that are clean, testable, and data-driven.
 - 🔭 Currently working on: [ACTAS-FTSM](https://github.com/IkmalGhaz) — Academic Analytics FYP for UKM FTSM
 - 🏆 Built: [TactixIQ](https://tactix-iq.vercel.app) — AI Football Scouting Agent @ Microsoft Agents League Hackathon 2026
 - 🌱 Learning: Test automation, cloud infrastructure, AI agents
-- 📬 Reach me: a202965@siswa.ukm.edu.my
+- 📬 Reach me: a202965@siswa.ukm.edu.my / ikmalghazali10@gmail.com
 
 ---
 
